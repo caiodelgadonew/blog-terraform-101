@@ -1,4 +1,3 @@
-# Terraform 101 -  Instalando e fazendo deploy de EC2 na AWS
+# Terraform - Criando uma EC2 e fazendo o deploy na AWS 
 
-Repositório com os arquivos do post https://caiodelgado.dev/terraform-101/
-
+Nesse projeto foi desenvolvido  um script usando o Terraform para provisionar um ambiente para criar instâncias EC2 em qualqer região da AWS.
